@@ -40,8 +40,12 @@ patch_sklearn()
 
 ## Results and Discussion
 
-## Scatter Plot for Selected Features
+## Feature Importance Plot
 ![WhatsApp Image 2024-01-27 at 8 31 42 PM (1)](https://github.com/SaranyaR-btech/JDBC-FILES/assets/143238930/d4595b57-eb56-4efe-a021-f01e2d34f815)
+
+## Scatter Plot for Selected Features
+
+![WhatsApp Image 2024-01-27 at 8 31 42 PM](https://github.com/SaranyaR-btech/JDBC-FILES/assets/143238930/b698e493-bf72-4043-af77-269d2b459086)
 
 
 
