@@ -47,5 +47,7 @@ patch_sklearn()
 
 ![WhatsApp Image 2024-01-27 at 8 31 42 PM](https://github.com/SaranyaR-btech/JDBC-FILES/assets/143238930/b698e493-bf72-4043-af77-269d2b459086)
 
+From the above bar chart its evident that Gradient boosting  is much better than other models for this dataset as Gradient boosting  gives the good accuracy .The ONEAPI reduced the overall runtime and GPU usage significantly compared to normal platforms.
+
 
 
