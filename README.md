@@ -21,3 +21,17 @@ Gradient boosting is a powerful machine learning technique used for both regress
 Handles Nonlinear Relationships: It can capture complex relationships between features and target variables, making it suitable for a wide range of problems.
 Robustness to Overfitting: By using shallow decision trees and regularization techniques, gradient boosting is less prone to overfitting compared to other models.
 Feature Importance: Gradient boosting provides insights into feature importance, which can help in feature selection and understanding the underlying patterns in the data.
+
+
+
+
+## Setup
+import pandas as pd
+
+pip install scikit-learn
+
+pip install gradio
+
+from sklearnex import patch_sklearn
+
+patch_sklearn()
