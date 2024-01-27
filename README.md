@@ -25,7 +25,7 @@ Robustness to Overfitting: By using shallow decision trees and regularization te
 Feature Importance: Gradient boosting provides insights into feature importance, which can help in feature selection and understanding the underlying patterns in the data.
 
 
-
+https://github.com/SaranyaR-btech/JDBC-FILES/assets/143238930/a1e476e0-8f61-4f79-8c4e-d1f24afca1bc
 
 ## Setup
 
