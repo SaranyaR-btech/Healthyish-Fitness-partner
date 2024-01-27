@@ -4,3 +4,5 @@ Obesity and overweight conditions are prevalent health concerns worldwide, leadi
 
 ## Objectives
 The objective of the project "Weight Reduction through Exercise-based Calorie Consumption Management" is to develop a comprehensive solution that empowers individuals to effectively manage their weight through a combination of calorie-conscious eating habits and tailored exercise routines.The solution for weight reduction through exercise-based calorie consumption management encompasses a comprehensive platform that integrates various tools, features, and resources to support individuals in their journey towards achieving and maintaining a healthy weight. The solution is designed to address the challenges of calorie awareness, exercise efficiency, tracking and monitoring, personalization, education, and accessibility.
+
+##  OneAPI
