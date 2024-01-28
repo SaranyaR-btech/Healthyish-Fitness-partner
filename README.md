@@ -24,11 +24,10 @@ Handles Nonlinear Relationships: It can capture complex relationships between fe
 Robustness to Overfitting: By using shallow decision trees and regularization techniques, gradient boosting is less prone to overfitting compared to other models.
 Feature Importance: Gradient boosting provides insights into feature importance, which can help in feature selection and understanding the underlying patterns in the data.
 
-
-https://github.com/SaranyaR-btech/JDBC-FILES/assets/143238930/a1e476e0-8f61-4f79-8c4e-d1f24afca1bc
-
-
 https://github.com/SaranyaR-btech/Healthyish-Fitness-partner/assets/143238930/a277f37f-cd16-445a-8c3d-84cbfd395698
+
+## Output 
+https://github.com/SaranyaR-btech/JDBC-FILES/assets/143238930/a1e476e0-8f61-4f79-8c4e-d1f24afca1bc
 
 
 ## Setup
